@@ -2,7 +2,7 @@
 
 CS251 project on Box2d
 
-Authours:
+Authors:
 1)Lohith
 2)Nihal
 3)Jagadeesh
